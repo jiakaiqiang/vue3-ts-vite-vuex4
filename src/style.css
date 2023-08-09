@@ -1,0 +1,4 @@
+/* 加载原子化css的全局样式 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
